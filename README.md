@@ -2,7 +2,7 @@
 <h3 align="center">I am a Software Testing Engineer from Turkey</h3>
 
 <h3 align="left">I’m currently working at Bimser Çözüm</h3>
-<h3 align="left">How to reach me batuhanaygormez@gmail.com</h3>
+How to reach me: batuhanaygormez@gmail.com
 <p align="left">
 <a href="https://linkedin.com/in/batuhanaygormez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhanaygormez" height="30" width="40" /></a>
 </p>
