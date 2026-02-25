@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">I am a Software Testing Engineer from Turkey</h3>
+<h3 align="center">I am a Senior Software QA Engineer from Turkey</h3>
 
 <h3 align="left">I’m currently working at Mobven</h3>
 How to reach me: batuhanaygormez@gmail.com
